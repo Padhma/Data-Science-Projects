@@ -18,8 +18,19 @@ Dataset used in this project: [GitHub Repositories 2020](https://www.kaggle.com/
         <li>Explore most popular tags</li>
         </ol>
     </font>
+
+## Technologies/Packages Used
+<font size='4'>
+    <ul>
+        <li>Python</li>
+        <li>Pandas</li>
+        <li>NumPy</li>
+        <li>Matplotlib</li>
+        <li>Seaborn</li>
+        <li>Jupyter Notebook</li>
+    </ul>
+</font>
     
-   ## License
-   
-   [MIT License](https://opensource.org/licenses/MIT)
+## License 
+[MIT License](https://opensource.org/licenses/MIT)
    
