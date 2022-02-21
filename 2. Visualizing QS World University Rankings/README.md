@@ -30,6 +30,8 @@ Dataset used in this project: [QS World University Rankings 2017 to 2022](https:
         <li>Seaborn</li>
         <li>Geopandas</li>
         <li>Missingno</li>
+        <li>Jupyter Notebook</li>
+        <li>venv</li>
     </ul>
  </font>
     
